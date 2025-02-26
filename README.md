@@ -17,9 +17,12 @@ El conjunto de datos utilizado proviene de un archivo CSV denominado `Precios_Me
 - Nombre del principio activo.
 - Precio por tableta.
 - Laboratorio fabricante.
+- Unidad de dispensación
+- Numero Factor
 
 ## Conclusiones
-A partir de este análisis, se pueden identificar patrones de precios en la industria farmacéutica, lo que permite tomar decisiones informadas sobre regulación y estrategias de compra. Además, el uso de herramientas de ciencia de datos facilita la automatización de este tipo de análisis para futuras investigaciones.
+A partir de este análisis, se pueden identificar patrones de precios en la industria farmacéutica, lo que permite tomar decisiones informadas sobre regulación y estrategias de compra, permitiendo comparaciones exactas y precisas, además de poder ver el comportamiento del mercado, con ello el uso de herramientas de ciencia de datos facilita la automatización de este tipo de análisis para futuras investigaciones.![image](https://github.com/user-attachments/assets/813abbed-04cd-4ab0-9b12-5024ac607688)
+
 
 
 ## Autores
