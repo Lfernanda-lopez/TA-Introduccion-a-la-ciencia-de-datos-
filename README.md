@@ -1,10 +1,17 @@
 # Análisis de Precios de Medicamentos
 
 ## Descripción del Proyecto
-Este proyecto tiene como objetivo analizar los precios de los medicamentos utilizando herramientas de ciencia de datos. A través del procesamiento y análisis de un conjunto de datos con precios de medicamentos, realizamos diversos cálculos estadísticos para obtener información valiosa sobre los costos de los principios activos y laboratorios farmacéuticos.
+Este proyecto tiene como objetivo analizar los precios de diferentes medicamentos utilizando herramientas de ciencia de datos. A través del uso de técnicas estadísticas y herramientas de visualización, buscamos comprender mejor la distribución de los precios, identificar patrones y detectar posibles anomalías o tendencias en la industria farmacéutica. El análisis abarca desde medidas de tendencia central hasta indicadores de dispersión, permitiendo obtener una visión integral de los datos y su comportamiento en el mercado.
 
-## Objetivo
-El objetivo principal de este proyecto es aplicar herramientas de ciencia de datos para analizar la distribución de precios de los medicamentos, identificando tendencias y patrones que puedan ser útiles para estudios de mercado y regulación de precios.
+Además, este proyecto sirve como una aplicación práctica de conceptos de ciencia de datos, combinando el uso de bibliotecas especializadas en análisis de datos con técnicas de procesamiento y exploración de información estructurada.
+
+
+## Objetivos
+- **Explorar y comprender los datos**: Cargar y visualizar un conjunto de datos sobre precios de medicamentos para entender su estructura y características principales.
+- **Aplicar técnicas estadísticas para análisis**: Calcular medidas de tendencia central (media, mediana) y de dispersión (desviación estándar, varianza) para analizar la distribución de precios.
+- **Detectar patrones y tendencias**: Identificar principios activos y laboratorios con precios más altos o con mayor variabilidad, lo que podría indicar diferencias en costos de producción o estrategias de mercado.
+- **Utilizar herramientas de ciencia de datos**: Implementar métodos de análisis con `pandas` y `numpy` para la manipulación y procesamiento de datos, así como `matplotlib` para visualización.
+- **Generar información útil para la toma de decisiones**: Proporcionar insights clave que pueden ser utilizados en la regulación de precios o estrategias comerciales dentro del sector farmacéutico.
 
 ## Tecnologías y Librerías Utilizadas
 El análisis se realizó utilizando las siguientes librerías de Python:
