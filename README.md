@@ -35,6 +35,7 @@ A partir de este análisis, se pueden identificar patrones de precios en la indu
 ## Autores
 - **Mateo Uribe**
 - **Luisa Fernanda Lopez Cadavid**
+- **Juan Esteban Castrillon**
 - Equipo de acompañamiento de Introducción a la Ciencia de Datos
 
 
